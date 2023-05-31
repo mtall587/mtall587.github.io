@@ -5,7 +5,6 @@
 ![](Aspose.Words.d2c8e4be-9fb3-41d3-a005-995795611390.004.png)
 
 # Key Highlights
-#
 - Strong problem-solving, demonstrated through years of bug fixing code and through phone, camera and laptop troubleshooting as a Tech Specialist at London Drugs.
 - Reliable, team-oriented player that is adaptable to the needs of the team, both in large scale group projects such as app development or video game design, as well as in smaller, more focused environments such as pair coding. Extensive experience wearing different hats to assist coworkers across departments.
 - Eager to learn and always looking to improve. Independently learned additional tools and skills such as Python and Cloud Computing to use industry standard tools like Microsoft Azure.
@@ -13,7 +12,6 @@
 
 
 # Education
-#
 
 ## **Bachelor of Science, Computer Science**
 ## Mount Royal University  Calgary, AB
@@ -43,7 +41,6 @@
 
 ## **Tech Specialist** London Drugs **May 2022 – September 2022**
 ## Calgary, AB
-#
 - Able to remain calm, focused, and adaptable under stressful circumstances such as staff shortages during busy hours, ensuring customers are assisted promptly and receive the quality service that is expected from service staff.
 - Attentive to customers’ needs, resulting in informed recommendations on products and services that best suit the needs of the customer.
 - Took on many roles outside of initial roles of the position such as general floor work, customer service, and new hire training demonstrating flexibility and willingness to learn skills that benefit the team.
