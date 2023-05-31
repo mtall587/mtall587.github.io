@@ -22,7 +22,7 @@
 - Anticipated graduation 2024
 
 # Technical Skills & Projects
-#
+
 ## **Languages and Tools**
 - Fluent in Python, SQL, JavaScript, Java, C#, and  C++.
 - Fluent in front end web development tools including HTML, CSS and Bootstrap.
