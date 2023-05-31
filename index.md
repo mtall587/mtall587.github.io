@@ -15,8 +15,10 @@
 # Education
 #
 
-|<p><h2>**Bachelor of Science - Computer Science	2018 - Present**</h2></p><p>Mount Royal University</p>|<p><h2>**2018 - Present**</h2></p><p>Calgary, AB</p>|
-| :- | -: |
+## **Bachelor of Science, Computer Science**
+## Mount Royal University  Calgary, AB
+### 2018 - Present
+
 
 - Enrolled in the Computer Science Co-operative Education Program
 - Anticipated graduation 2024
@@ -37,11 +39,11 @@
 
 
 # Work Experience
-#
 
-|<p><h2>**Tech Specialist**</h2></p><p>London Drugs</p>|<p><h2>**May 2022 – September 2022**</h2></p><p>Calgary, AB</p>|
-| :- | -: |
-##
+
+## **Tech Specialist** London Drugs **May 2022 – September 2022**
+## Calgary, AB
+#
 - Able to remain calm, focused, and adaptable under stressful circumstances such as staff shortages during busy hours, ensuring customers are assisted promptly and receive the quality service that is expected from service staff.
 - Attentive to customers’ needs, resulting in informed recommendations on products and services that best suit the needs of the customer.
 - Took on many roles outside of initial roles of the position such as general floor work, customer service, and new hire training demonstrating flexibility and willingness to learn skills that benefit the team.
